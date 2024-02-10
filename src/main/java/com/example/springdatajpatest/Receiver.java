@@ -1,4 +1,4 @@
-package com.example.springdatajpatest.jmstutorial;
+package com.example.springdatajpatest;
 
 import org.springframework.jms.annotation.JmsListener;
 import org.springframework.stereotype.Component;

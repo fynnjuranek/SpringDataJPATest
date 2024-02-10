@@ -1,4 +1,4 @@
-package com.example.springdatajpatest.nosqldatabase;
+package de.leuphana.test.springmongodbtest.database;
 
 import org.springframework.data.annotation.Id;
 

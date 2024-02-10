@@ -1,4 +1,4 @@
-package com.example.springdatajpatest.jmstutorial;
+package com.example.springdatajpatest;
 
 public class Email {
     private String to;
